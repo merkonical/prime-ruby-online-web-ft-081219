@@ -1,1 +1,2 @@
-# Add  code here!
+prime?()# Add  code here!
+end 
