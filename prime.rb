@@ -1,5 +1,5 @@
-def prime?(number)
-  number.each 
+def prime?(num)
+  if num 
 end 
 
 
